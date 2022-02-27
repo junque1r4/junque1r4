@@ -27,7 +27,7 @@
 **fastAPI, Rust, MongoDB**
 
 👯 I’m looking to collaborate on... 
-**openSoure, CTF, coding challenges**
+**openSource, CTF, coding challenges**
 
 ⚡ Fun fact:
 **I slept for about only 3 hours a day the year after last**
