@@ -24,7 +24,7 @@
  **developing myself into backend and security** 
 
 🌱 I’m currently learning...
-**fastAPI, SDLC, pentesting**
+**fastAPI, Rust, MongoDB**
 
 👯 I’m looking to collaborate on... 
 **openSoure, CTF, coding challenges**
