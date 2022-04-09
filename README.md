@@ -17,16 +17,13 @@
 
 ## Some infos about me
 🔭 I’m currently working on...
- **developing myself into backend and security** 
+ **developing myself into backend and security analysis** 
 
 🌱 I’m currently learning...
-**Rust and MongoDB**
+**Rust, C# and Swift for fix security vulnerabilities for my company**
 
 👯 I’m looking to collaborate on... 
 **openSource, CTF, coding challenges**
-
-⚡ Fun fact:
-**I slept for about only 3 hours a day the year after last**
 
 ![Joao's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=junque1r4&theme=radical
 )
