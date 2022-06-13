@@ -21,11 +21,11 @@
 
 
 <a href="https://github.com/junque1r4">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=junque1r4&show_icons=true&count_private=true&theme=radical&line_height=27" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=junque1r4&show_icons=true&count_private=true&theme=radical&line_height=20" alt="GitHub stats" />
 </a>
 
 <a href="https://github.com/junque1r4">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junque1r4&langs_count=4&theme=radical&line_height=33" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junque1r4&langs_count=4&theme=radical&line_height=27" alt="GitHub stats" />
 </a>
 
 <!--
