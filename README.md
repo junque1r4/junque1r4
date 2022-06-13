@@ -9,7 +9,7 @@
 
 ## Some infos about me
 🔭 I’m currently working on...
- **learn rust!** 
+ **SAST, DAST, Architecture and pentest!** 
 
 🌱 I’m currently learning...
 **web penetration tests!**
