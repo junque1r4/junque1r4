@@ -5,7 +5,7 @@
 
 🇧🇷 **Brazillian**
 
-👨🏽‍🔧 **Cybersecurity Architect**
+👨🏽‍🔧 **Cybersecurity Engineer**
 
 ## Some infos about me
 🔭 I’m currently working on...
