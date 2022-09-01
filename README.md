@@ -12,7 +12,7 @@
  **SAST, DAST, Architecture and pentest!** 
 
 🌱 I’m currently learning...
-**web penetration tests!**
+**swift and ssdlc!**
 
 👯 I’m looking to collaborate on... 
 **openSource, CTF and code challenges at exercism.org!**
