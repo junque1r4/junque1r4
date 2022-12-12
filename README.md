@@ -17,7 +17,7 @@
 👯 I’m looking to collaborate on... 
 **openSource, CTF and code challenges at exercism.org!**
 
-🔍 You can find me on...  📲 [Telegram](https://t.me/junque1r4) 📧 [Email](mailto:dev.junqueira@gmail.com)
+🔍 You can find me on...  📧 [Email](mailto:dev.junqueira@gmail.com) [Tabnews](https://www.tabnews.com.br/JJunqueira) 
 
 
 <a href="https://github.com/junque1r4">
