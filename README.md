@@ -12,7 +12,7 @@
  **SAST, DAST, Architecture and pentest!** 
 
 🌱 I’m currently learning...
-**swift and ssdlc!**
+**Rust and Owasp ASVS!**
 
 👯 I’m looking to collaborate on... 
 **openSource, CTF and code challenges at exercism.org!**
