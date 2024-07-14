@@ -1,20 +1,20 @@
 # Whoami?
 🤓 **João Junqueira.**
 
-♒️ **24y.o**
+♒️ **25y.o**
 
 🇧🇷 **Brazillian**
 
-👨🏽‍🔧 **Cybersecurity Analyst**
+👨🏽‍🔧 **Cybersecurity Engineer**
 
 ## Some infos about me
 🔭 I’m currently working on...
- **SSDLC, SAST** 
+ **Tenable SC+, Networking, Compliance** 
 
 🌱 I’m currently improving ...
-**Fixing vulnerabilities**
+**My rust and solidity smart contracts skills**
 
 👯 I’m looking to collaborate on... 
-**openSource, CTF and code challenges at exercism.org!**
+**openSource, blockchain, smart contracts.**
 
 🔍 You can find me on...  📧 [Email](mailto:dev.junqueira@gmail.com) [Tabnews](https://www.tabnews.com.br/JJunqueira) 
