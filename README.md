@@ -9,7 +9,7 @@
 
 ## Some infos about me
 🔭 I’m currently working on...
- **Tenable SC+, Networking, Compliance** 
+ **Tenable SC+, Network, Compliance** 
 
 🌱 I’m currently improving ...
 **My rust and solidity smart contracts skills**
