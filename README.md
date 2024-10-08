@@ -9,10 +9,10 @@
 
 ## Some infos about me
 🔭 I’m currently working on...
- **Tenable SC+, Network, Compliance** 
+ **Tenable SC+, Network, Compliance, Linux.** 
 
 🌱 I’m currently improving ...
-**My rust and solidity smart contracts skills**
+**My C and my Rust skills! ( And now i'm doing the 42School!**
 
 👯 I’m looking to collaborate on... 
 **openSource, blockchain, smart contracts.**
