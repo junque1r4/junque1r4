@@ -12,7 +12,7 @@
  **Tenable SC+, Network, Compliance, Linux.** 
 
 🌱 I’m currently improving ...
-**My C and my Rust skills! ( And now i'm doing the 42School!**
+**My Rust and WEB3 skills!**
 
 👯 I’m looking to collaborate on... 
 **openSource, blockchain, smart contracts.**
