@@ -1,7 +1,7 @@
 # Whoami?
-🤓 **João Junqueira.**
+🤓 **Victor**
 
-♒️ **25y.o**
+♒️ **26y.o**
 
 🇧🇷 **Brazillian**
 
@@ -12,7 +12,7 @@
  **Tenable SC+, Network, Compliance, Linux.** 
 
 🌱 I’m currently improving ...
-**My Rust and WEB3 skills!**
+**My Rust, WEB3, Solana and Blockchain skills and knowledge!**
 
 👯 I’m looking to collaborate on... 
 **openSource, blockchain, smart contracts.**
